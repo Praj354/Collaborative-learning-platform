@@ -1,0 +1,12 @@
+.video-call {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.local-video, .remote-video {
+  width: 400px;
+  height: 300px;
+  margin: 10px;
+  border: 2px solid #ccc;
+}
